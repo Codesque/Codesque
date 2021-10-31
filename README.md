@@ -1,6 +1,6 @@
 ### Alright Mate 👋
 - 📫 How to reach me: [berkyksel1994@gmail.com]()
--  🌱 I’m currently learning C 
+-  🌱 I’m currently learning C,Python,HTML,CSS,JS
 -  😄 Pronouns: He/Him 
 -  
 <!--
