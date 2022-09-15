@@ -1,8 +1,6 @@
 ### Alright Mate 👋
 - 📫 How to reach me: [berkyksel1994@gmail.com]()
--  🌱 I’m currently learning C,Python,HTML,CSS,JS
--  😄 Pronouns: He/Him 
--  
+-  🌱 I’m currently learning C# , Python , Pygame , Mediapipe  
 <!--
 **Codesque/Codesque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
