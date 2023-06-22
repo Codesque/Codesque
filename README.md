@@ -90,6 +90,8 @@ My name is Adem Berk. I am a 3<sup>th</sup> Computer Engineering Student at [BTU
 </p>
 
 ## My Weekly Stats :
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
