@@ -93,12 +93,12 @@ My name is Adem Berk. I am a 3<sup>th</sup> Computer Engineering Student at [BTU
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2023 - To: 22 June 2023
+From: 20 June 2023 - To: 23 June 2023
 
-Total Time: 4 hrs 46 mins
+Total Time: 5 hrs 7 mins
 
-Markdown   4 hrs 39 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.42 %
-HTML       7 mins          >------------------------   02.58 %
+Markdown   5 hrs           >>>>>>>>>>>>>>>>>>>>>>>>-   97.58 %
+HTML       7 mins          >------------------------   02.42 %
 ```
 
 <!--END_SECTION:waka-->
