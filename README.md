@@ -91,16 +91,6 @@ My name is Adem Berk. I am a 3<sup>th</sup> Computer Engineering Student at [BTU
 
 ## My Weekly Stats :
 <!--START_SECTION:waka-->
-
-```txt
-From: 20 June 2023 - To: 23 June 2023
-
-Total Time: 5 hrs 7 mins
-
-Markdown   5 hrs           >>>>>>>>>>>>>>>>>>>>>>>>-   97.58 %
-HTML       7 mins          >------------------------   02.42 %
-```
-
 <!--END_SECTION:waka-->
 
 
