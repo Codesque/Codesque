@@ -93,8 +93,8 @@ My name is Adem Berk. I am a 3<sup>th</sup> Computer Engineering Student at [BTU
 <!--START_SECTION:waka-->
 
 ```txt
-C#         9 hrs 30 mins   ████████████████████████░   95.74 %
-Markdown   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+C#         5 hrs 51 mins   █████████████████████▒░░░   84.82 %
+Markdown   1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
 ```
 
 <!--END_SECTION:waka-->
