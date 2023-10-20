@@ -75,8 +75,10 @@ My name is Adem Berk. I am a 3<sup>th</sup> Computer Engineering Student at [BTU
 ## My Tech Stack :
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/unity/unity-original-wordmark.svg" width=40 height=40> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=40 height=40> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg" width=40 height=40> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width=40 height=40> 
+<img src="https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_logo.svg" width=40 height=40> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=40 height=40> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width=40 height=40> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40 height=40> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width=40 height=40> 
