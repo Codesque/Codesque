@@ -11,9 +11,9 @@
             <a href="https://www.linkedin.com/in/ademberk10101/">
                 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align=""  alt="LinkedIn Badge"/>
             </a>
-            <a href="https://www.hackerrank.com/AdemBerkYuksel?hr_r=1">
-                <img src="https://img.shields.io/badge/hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" align=""
-                 alt="Hackerrank Badge"/>
+            <a href="https://adamengine.itch.io/">
+                <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" align=""
+                 alt="My Itch.io Account"/>
             </a>
             <a href="https://stackoverflow.com/users/22116874/adem-berk-y%c3%bcksel">
                 <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" align=""  alt="Stackoverflow Badge"/>
@@ -85,6 +85,12 @@ My name is Adem Berk. I am a 4<sup>th</sup> Computer Engineering Student at [BTU
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=40 height=40> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width=40 height=40> 
 </p>
+
+<br>
+<br> 
+
+
+
 
 ## My Weekly Stats :
 <!--START_SECTION:waka-->
