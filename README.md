@@ -4,7 +4,8 @@
     <tr>
         <td rowspan="2" align="center">
             <a href="https://www.youtube.com/watch?v=UnktCDi-BVs&ab_channel=MisterAlex"> 
-            <img src="https://i.imgur.com/DGTLI2h.png" width="70%" height="300px" />
+            <!--<img src="https://i.imgur.com/DGTLI2h.png" width="70%" height="300px" /> --> 
+                <img src="https://i.giphy.com/j45uOVEtWYP2QnmFYu.webp" width="70%" height="300px" />
             </a>
         </td>
         <td colspan="2">
@@ -50,7 +51,8 @@
 <p>
 
 # Hello everynyan . How are you ? Fine thank you!
-<img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e47wn4pc4pn2sioceghasl4z0j6bwbi5h0jk9mm7dlc&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="20%" align="right">
+<!--<img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e47wn4pc4pn2sioceghasl4z0j6bwbi5h0jk9mm7dlc&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="20%" align="right"> -->
+<img src="https://i.giphy.com/PMAF1DGNjMCe0gtYJM.webp" width="20%" align="right">
 
 <div>
 
