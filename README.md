@@ -56,7 +56,7 @@
 
 <div>
 
-My name is Adem Berk. I am a 4<sup>th</sup> Computer Engineering Student at [BTU](https://mdbf.btu.edu.tr/bilgisayar). I am looking for **internships** and other kind of job opportunities. I have interest in **Game Development**.
+My name is Adem Berk. I am a 4<sup>th</sup> Computer Engineering Student at [BTU](https://mdbf.btu.edu.tr/bilgisayar).I am interested in **Game Development**. I am a great catch if you are looking for someone to join to game jams.
 
 
 </div>
@@ -66,8 +66,8 @@ My name is Adem Berk. I am a 4<sup>th</sup> Computer Engineering Student at [BTU
 
 - 🔭 I’m currently on a journey to build **Game AIs**
 - 🐳 I'm currently learning **Procedural Generation** 
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-- 💬 Ask me about Unity , C# , Game Optimization ... 
+- 🤝 I'm looking for **internships** and other kind of job opportunities. 
+- 💬 Ask me about Game Architecture , Clean Code , Game Optimization ... 
 </details>
 <br>
 <br>
